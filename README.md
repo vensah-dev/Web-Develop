@@ -9,19 +9,19 @@ The website simulator displays the website that gets created by the user in real
 Finally, the tutorial section is under the simulator window. The tutorial section contains a detailed step by step tutorial on how to code a basic website that would get the user's interest in web development kick started. The tutorials include multiple different analogies, examples and code snippets that get simulated real time to show the result of certain code to make understanding parts of the code easy for beginners.
 
 
-Sample Website in full screen simulator
+### Sample Website in full screen simulator
 
 
 ![IMG_0053](https://github.com/vensah-dev/Web-Develop/assets/83892875/6107f81e-c362-490d-a482-29087b2cf714)
 
 
-Full App
+### Starting Page
 
 
 ![IMG_0051](https://github.com/vensah-dev/Web-Develop/assets/83892875/a2ed9b7d-c855-41a0-9af4-79d19af281fe)
 
 
-Starting page
+### Full App
 
 
 ![IMG_0052](https://github.com/vensah-dev/Web-Develop/assets/83892875/a270d63f-dcde-4bea-94e2-ebda3498c814)
