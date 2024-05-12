@@ -8,6 +8,7 @@ The website simulator displays the website that gets created by the user in real
 
 Finally, the tutorial section is under the simulator window. The tutorial section contains a detailed step by step tutorial on how to code a basic website that would get the user's interest in web development kick started. The tutorials include multiple different analogies, examples and code snippets that get simulated real time to show the result of certain code to make understanding parts of the code easy for beginners.
 
+## Screenshots
 
 ### Sample Website in full screen simulator
 
